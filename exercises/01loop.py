@@ -13,3 +13,8 @@
 # > Hello there
 # > Hello there
 # > Hello there
+
+def p_times(statement, integer):
+    print(statement * integer)
+
+p_times('you a jerk ', 10)
